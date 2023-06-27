@@ -1,2 +1,2 @@
-# webhook-sender
-a simple webhook sender made in python !
+# Discord webhook-sender
+🦎 a simple webhook sender made in python🦎
